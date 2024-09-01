@@ -1,0 +1,16 @@
+JavaCV: https://github.com/bytedeco/javacv
+
+Instalação JavaCV: http://ganeshtiwaridotcomdotnp.blogspot.com.br/2017/01/javacv-configuration-in-windows.html
+
+https://stackoverflow.com/questions/11699744/face-recognition-on-android
+
+Problemas na instalação OpenCV + JavaCV>
+http://mmstratton.com/wp/javacv-setup/
+
+Mudança no JavaCV (do google para bytedeco) 
+http://bytedeco.org/news/2014/04/28/first-release/
+
+Escaneia para descobrir erros entre modulos incompativeis: http://www.dependencywalker.com
+
+Caso dê erro no JavaCV (UnsatisfiedLinkError)
+https://stackoverflow.com/questions/11539230/javacv-webcam-capturing-using-javacv
