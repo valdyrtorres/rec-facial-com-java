@@ -1,0 +1,10 @@
+- Usar a versão 1.8 do java
+- baixar o JavaCV
+https://github.com/bytedeco/javacv/releases
+https://github.com/bytedeco/javacv/releases/download/1.5.11/javacv-platform-1.5.11-bin.zip
+
+- descompactar e renomear de javacv-platform-1.5.11-bin para javacv-bin 
+- Mover o diretório javacv-bin (mantendo esse nome) para "Program Files" ou "Arquivos de Programas"
+- Criar o diretório lib ou bibliotecas em seu projeto
+- do diretório javacv-bin copiar os arquivos que comecem com opencv
+- copiar também o javacpp.jar e os que começam com javacv

@@ -6,5 +6,6 @@ import org.bytedeco.opencv.opencv_face.EigenFaceRecognizer;
 public class TesteJavaCV {
     public static void main(String[] args) {
         FaceRecognizer r = EigenFaceRecognizer.create();
+        System.out.println("Executou...");
     }
 }
