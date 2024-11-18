@@ -8,3 +8,5 @@ https://github.com/bytedeco/javacv/releases/download/1.5.11/javacv-platform-1.5.
 - Criar o diretório lib ou bibliotecas em seu projeto
 - do diretório javacv-bin copiar os arquivos que comecem com opencv
 - copiar também o javacpp.jar e os que começam com javacv
+
+Nota: em recursos baixei p arquivo pronto haarcascade_frontalface_alt.xml que é um classificador treinado
